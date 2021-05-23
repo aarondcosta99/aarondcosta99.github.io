@@ -5639,11 +5639,11 @@ h5 small {
 
 .fa-icon {
 	color: #000;
-	width: 32px;
-	height: 32px;
+	width: 128px;
+	height: 128px;
 	display: inline-block;
-	line-height: 29px;
-	font-size: 15px;
+	line-height: 128px;
+	font-size: 64px;
 	text-align: center
 }
 
